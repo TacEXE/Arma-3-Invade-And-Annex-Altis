@@ -394,10 +394,10 @@ class RscTitles
 }; */
 
 /* Adds screen when loading. */
-author = Rarek [AW];
-onLoadName = "AW Invade & Annex";
-loadScreen = "awMissionLogo.jpg";
-OnLoadMission = "A custom-made domination-esque mission for ArmA 3, Ahoy World Invade &amp; Annex is lovingly crafted by Rarek. To follow / aid in the development of this mission, please sign up to www.AhoyWorld.co.uk and join us on TeamSpeak at ts.ahoyworld.co.uk:9987.";
+author = Rarek [AW] modified by TacEXE;
+onLoadName = "Invade & Annex";
+loadScreen = "missionlogo.jpg";
+OnLoadMission = "A coop game mode where you and your team mates together capture enemy ai controled sectors.";
 
 disabledAI = 1;
 Respawn = 3;
